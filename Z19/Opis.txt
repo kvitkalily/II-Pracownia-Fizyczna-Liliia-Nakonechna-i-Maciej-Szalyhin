@@ -1,0 +1,1 @@
+Dodaję pliki danych napięcia, które były wykorzystywane do opracowania w sprawozdaniu. Wszystkie nazwy plików mają w sobie temperatury w *C.
